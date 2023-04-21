@@ -13,6 +13,12 @@ Skills: Javascript , React.js, React Router,  API, Node.js, Express.js, ES6, Mon
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/rohit-mondal1)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/rohit-mondal1)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/rohit-mondal1&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/rohit-mondal1)  
+
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/rohit-mondal1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/rohit-mondal1)  
